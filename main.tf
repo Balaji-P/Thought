@@ -1,10 +1,10 @@
 #creates VPC, one public subnet, two private subnets, one EC2 instance and one MYSQL RDS instance
 #declare variables
 variable "access_key" {
-  default = "AKIA422XY6EMFAOVFAA6"
+  default = "xxxxxx"
 }
 variable "secret_key" {
-  default = "9TksoZEpfG1zTorp2VoPB6Sm4zY9AspviFzVYQ/C"
+  default = "xxxxxxx"
 }
 
 # variable "ec2_key_pair_name" {
